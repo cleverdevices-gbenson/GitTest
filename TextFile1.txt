@@ -1,7 +1,7 @@
 Hello world!
 Some change here.
 
-Alice doing some work.
+Alice doing some work. Alice fixing stuff in trunk
 Now Ben added some stuff.
 
 Ben does more work on Aug 2
