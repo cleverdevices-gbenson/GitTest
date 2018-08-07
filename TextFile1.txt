@@ -11,3 +11,7 @@ Ben working on feature 1
 Ben developing feature 2 now, fix
 
 Alice try to add morea again 1
+
+some changes from nano
+
+END OF FILE
